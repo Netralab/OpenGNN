@@ -1,2 +1,2 @@
 # OpenGNN
-Code for OpenGNN: Towards Enhancing Graph Neural Networks for Open Set Node Detection.
+Code for OpenGNN: Augmenting Graph Neural Networks for Open-Set Node Prediction in Complex Networks.
